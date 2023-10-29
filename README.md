@@ -2,16 +2,14 @@
 <img src="header.gif" alt="header" height="150" width="900" />
 
  <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+ Sans&weight=600&size=30&pause=1000&color=3B7B9C&repeat=false&random=false&width=600&lines=Hey+there%F0%9F%91%8B%2C+I'm+Hamza+Guetoui!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=30&pause=1000&color=3B7B9C&repeat=false&random=false&width=600&lines=Hey+there%F0%9F%91%8B%2C+I'm+Hamza+Guetoui!" alt="Typing SVG" /></a>
  </div>
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=19&duration=5500&pause=100&color=329289&multiline=true&repeat=false&random=false&width=1000&height=90&lines=Welcome+to+my+GitHub+profile%2C+where+I+turn+ideas+into+high-performance+web+solutions.+;I'm+a+passionate+MERN+stack+developer+with+a+flair+for++crafting+exceptional+digital+;experiences." alt="Typing SVG" /></a>
 </div>
-
 <hr/>
 
 <div align="left">
- 
 ## What's in My Toolkit
 Here's what you can expect when we collaborate:
 - **Front-end Magic**: Proficiency in JavaScript, React, React Bootstrap, HTML5, and CSS3.

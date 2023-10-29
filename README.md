@@ -10,6 +10,7 @@
 <hr/>
 
 <div align="left">
+ 
 ## What's in My Toolkit
 Here's what you can expect when we collaborate:
 - **Front-end Magic**: Proficiency in JavaScript, React, React Bootstrap, HTML5, and CSS3.

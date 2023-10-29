@@ -24,7 +24,9 @@ Here's what you can expect when we collaborate:
 <h1>Let's Build Something Amazing</h1>
 Have a web project in mind? Need to set up a high-performance database? I'm here to help. Share your vision, and together we'll create remarkable digital solutions.
 Feel free to explore my repositories, ask questions, or reach out for any web development assistance. Let's turn your digital dreams into reality!
- </div>
+</div>
+<br/>
+<br/>
 <div id="badges" >
   <a href="https://www.linkedin.com/in/hamza-guetioui/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
